@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp.netCoreCrud", "WebApplication1\Asp.netCoreCrud.csproj", "{90DD6A7E-FC81-4661-A104-25F35677B28D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D9688DAE-698C-46EA-BDB8-96DC15F298D8}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90DD6A7E-FC81-4661-A104-25F35677B28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DD6A7E-FC81-4661-A104-25F35677B28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90DD6A7E-FC81-4661-A104-25F35677B28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90DD6A7E-FC81-4661-A104-25F35677B28D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9440CB4-9CE9-4B9E-89C7-8FD806E4C75F}
+	EndGlobalSection
+EndGlobal
